@@ -1,6 +1,6 @@
 # Repeated Orthogonal Neighbor Sudoku solver using Genetic Algorithm
 
-Tests in Sudoku/Sudoku/bin/Debug/sudoku_puzzles.txt
+Tests in sudoku_puzzles.txt
 
 Main Program - Program.cs (Sudoku/Sudoku/Program.cs)
 - input file name to solve sudoku puzzles inside the file
